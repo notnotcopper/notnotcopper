@@ -1,4 +1,4 @@
-This is not a bio.
+this is not a bio
 
 <!---
 notnotcopper/notnotcopper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
